@@ -32,4 +32,7 @@ Belajar OOP Javascript (Progress 35%)
   * object composition
   * build-in class
 
+**5 Mei 2021**
+Belajar Framework Hapi dan Restful API
+
 
