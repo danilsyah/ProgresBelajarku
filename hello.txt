@@ -1,3 +1,7 @@
-hai ini target tujuanku test
+hai ini target tujuanku wow
 
-update squash change 1
+update squash 1
+
+update squash 2
+
+update squash 3
