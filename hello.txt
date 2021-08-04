@@ -3,3 +3,5 @@ hai ini target tujuanku wow
 update squash 1
 
 update squash 2
+
+update squash 3
