@@ -1,1 +1,3 @@
 hai ini target tujuanku test
+
+update squash change 1
